@@ -9,7 +9,7 @@ This analysis will investigate the racial make-up of counties in Pennsylvania an
 
 As mentioned in the background information, Pennsylvania is one of the states that has significant influence on the outcome of an election due to its number of electoral votes. In campaigning for an election, campaign managers often make data-driven decisions, but time and time again we see candidates still struggling to pinpoint where to focus their attention. For example, for the 2016 election, the Democratic candidate Hillary Clinton targeted gaining Philadelphia and Pittsburgh votes rather than rural areas in Pennsylvania, though Philadelphia and Pittsburgh are already very Democratic and was most likely going to vote for Clinton anyway. Her failure to focus her attention on places that actually needed it may have cost her the victory, as suggested by a podcast by [Pod Save America](https://www.happyscribe.com/public/pod-save-america/covid-covid-covid) (about 45 minute mark.) 
 
-This leads to the question of: *For which counties in Pennsylvania should candidates for each major political party focus their attention of their campaigns for the most success?* 
+This leads to the question of: *For which counties in Pennsylvania should candidates for each major political party focus their attention for campaigning to garner the most success?*
 
 ## Data Question 
 
