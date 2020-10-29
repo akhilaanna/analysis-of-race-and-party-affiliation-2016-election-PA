@@ -89,7 +89,9 @@ For the third part of this analysis, we organized the cluster results into Pivot
 ![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Pivot%20Table%20Republicans.png)
 - Anchor 1 contains the most counties (44/67), which represents counties that voted more Republican than the average county, with less than average African American, Asian American, other, and Latino population, but more than average white people and a very slightly more than average Native American population.
 
-- These results make sense, as Pennsylvania is mostly comprised of small Republican counties that are predominately white. 
+- This makes sense as the majority of counties in Pennsylvania are small, predominantely white and Republican. 
+
+
 ## Recommendations 
 
 ## Step by Step Description of Data Analysis 
