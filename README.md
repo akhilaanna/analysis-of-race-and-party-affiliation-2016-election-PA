@@ -22,6 +22,9 @@ Our main data question is: What does 2016 election data say about racial make-up
 We can break this question down into three parts: 
 -Is there a statistically significant correlation 
 ## Data Answer 
+![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Regression%20Democrat.png)
+
+![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Regression%20Republican.png)
 
 ## Business Answer 
 
