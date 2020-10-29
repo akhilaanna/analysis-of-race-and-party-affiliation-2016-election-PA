@@ -41,7 +41,7 @@ For the first part of this analysis, we wanted to set multiple linear regression
 #### Republican Multiple Regression 
 ![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Regression%20Republican.png)
 
-Given the high p-values(>0.05) for all racial groups in Democrats and Republicans, we are unable to construct multiple linear regressions. This means we cannot say that there is a correlation between race and political party affiliation. 
+Regardless of the relatively strong R-squared and low Significance-F values for both Democrats and Republicans, the high p-values(>0.05) for all racial groups means we are unable to construct multiple linear regressions. This means we cannot say that there is a correlation between race and political party affiliation in Pennsylvania. 
 
 Even though we could not make conclusions about the relationship between race and political party affiliation, we decided to go further and analyze each county of Pennsylvania to see how races are distributed in each county (depending on which of the five clusters it belongs to) so we can make some general observations about racial makeup and political party affiliation. 
 
