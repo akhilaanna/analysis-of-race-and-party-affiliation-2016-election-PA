@@ -9,7 +9,7 @@ This analysis will investigate the racial make-up of counties in Pennsylvania an
 
 As mentioned in the background information, Pennsylvania is one of the states that has significant influence on the outcome of an election due to its number of electoral votes. In campaigning for an election, campaign managers often make data-driven decisions, but time and time again we see candidates still struggling to pinpoint where to focus their attention. For example, for the 2016 election, the Democratic candidate Hillary Clinton targeted gaining Philadelphia and Pittsburgh votes rather than rural areas in Pennsylvania, though Philadelphia and Pittsburgh are already very Democratic and was most likely going to vote for Clinton anyway. Her failure to focus her attention on places that actually needed it may have cost her the victory, as suggested by a podcast by [Pod Save America](https://www.happyscribe.com/public/pod-save-america/covid-covid-covid) (about 45 minute mark.) 
 
-This leads to the question of: For which counties in Pennsylvania should candidates for each major political party focus their attention of their campaigns for the most success? 
+This leads to the question of: *For which counties in Pennsylvania should candidates for each major political party focus their attention of their campaigns for the most success?* 
 
 ## Data Question 
 
@@ -82,11 +82,11 @@ For the third part of this analysis, we organized the cluster results into Pivot
 #### Democrat Pivot Table 
 ![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Democrat%20Pivot.png)
 
-Anchor 1: 
-Anchor 2:
-Anchor 3:
-Anchor 4:
-Anchor 5: 
+**Anchor 1:** Northampton County
+**Anchor 2:** Sullivan County
+**Anchor 3:** Chester County
+**Anchor 4:** Greene County
+**Anchor 5:** Philadelphia County
 
 - Anchor 4 contains the most counties by a significant margin (47/67), which represents counties that voted slighty less Democratic than the average county, with less than average African American, Asian American, other, and Latino people, but more than average white people and a very slightly higher than average Native American population.
 
@@ -95,11 +95,11 @@ Anchor 5:
 #### Republican Pivot Table 
 ![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Pivot%20Table%20Republicans.png)
 
-Anchor 1: 
-Anchor 2:
-Anchor 3:
-Anchor 4:
-Anchor 5: 
+**Anchor 1:** Greene County
+**Anchor 2:** Chester County
+**Anchor 3:** Lancaster County
+**Anchor 4:** Philadelphia County
+**Anchor 5:** Sullivan County
 
 - Anchor 1 contains the most counties (44/67), which represents counties that voted more Republican than the average county, with less than average African American, Asian American, other, and Latino population, but more than average white people and a very slightly more than average Native American population.
 
