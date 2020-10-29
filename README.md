@@ -21,7 +21,7 @@ Our main data question is: What does 2016 election data say about racial make-up
 
 We can break this question down into three parts: 
 
-1) *Is there a statistically significant correlation between race the political party affiliation?* 
+1) *Is there a statistically significant correlation between race and political party affiliation?* 
 
 2) *What are five clusters of counties that represent the racial demographics of Pennsylvania?* 
 
@@ -29,14 +29,33 @@ We can break this question down into three parts:
 
 ## Data Answer 
 
+### (1) Is there a statistically significant correlation between race and political party affiliation? 
+
 For the first part of this analysis, we wanted to set multiple linear regressions for Republicans and Democrats to develop a model for the correlation between racial groups and party support in Pennsylvania. The racial groups used were White, Black, Hispanic, Asian American, American Indian and others. In creating linear 
-### Multiple Regression Democrat
+ 
+#### Democrat Multiple Regression 
 ![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Regression%20Democrat.png)
 
-### Multiple Regression Republican
+#### Republican Multiple Regression 
 ![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Regression%20Republican.png)
 
 Given the high p-values
+
+### (2) What are five clusters of counties that represent the racial demographics of Pennsylvania? 
+
+For the second part of this analysis, 
+
+#### Democrat Cluster 
+
+#### Republican Cluster 
+
+### (3) How many counties are in each cluster and what does that mean about the overall state of Pennsylvania? 
+
+For the third part of this analysis, 
+
+#### Democrat Pivot Table 
+
+#### Republican Pivot Table 
 
 ## Business Answer 
 
