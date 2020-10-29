@@ -31,13 +31,14 @@ We can break this question down into three parts:
 Data was collected from OpenDataSoftware, which combines thousands of datasets from international databases. Census data on the 2016 Presidential Election in Pennsylvania was exported for analysis. 
 https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Pennsylvania%20Raw%20Election%20Data.xlsx
 
+### (1) Is there a statistically significant correlation between race and political party affiliation? 
 
 For the first part of this analysis, we wanted to set multiple linear regressions for Republicans and Democrats to develop a model for the correlation between racial groups and party support in Pennsylvania. The racial groups used were White, Black, Hispanic, Asian American, American Indian and others. In creating multiple regression models, we can use coefficients to estimate which political party each racial groups tend to support in Pennsylvania. 
 
-#### Multiple Regression Democrat
+#### Democrat Multiple Regression 
 ![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Regression%20Democrat.png)
 
-### Multiple Regression Republican
+#### Republican Multiple Regression 
 ![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Regression%20Republican.png)
 
 Given the high p-values(>0.05) for all racial groups in Democrats and Republicans, we are unable to construct multiple linear regressions. This means we cannot say that there is a correlation between race and political party affiliation. 
