@@ -77,16 +77,15 @@ For the second part of this analysis, we made five clusters for the Pennsylvania
 
 ### (3) How many counties are in each cluster and what does that mean about the overall state of Pennsylvania? 
 
-For the third part of this analysis, we organized the cluster results into Pivot tables to show how many counties are associated with each anchor. Once these Pivot tables were constructed, we made Pivot graphs as a form of visual representation.
+For the third part of this analysis, we organized the cluster results into Pivot tables to show how many counties are associated with each anchor. Once these Pivot tables were constructed, we made Pivot Graphs as a form of visual representation for the number of counties in each anchor.
 
 #### Democrat Pivot Table 
 ![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Democrat%20Pivot.png)
-
+- Anchor 4 contains the most counties by a significant margin (47/67), which represents counties that voted slighty less Democratic than the average county, with less than average African American, Asian American, other, and Latino people, but more than average white people and a very slightly higher than average Native American population.slightly less Democratic than the average, with less than average African American, Asian American, other, and Latino people, but more than average white people and a very slightly higher than average Native American population.
 
 #### Republican Pivot Table 
 ![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Pivot%20Table%20Republicans.png)
-
-
+- Anchor 1 contains the most counties (44/47), which represents counties that voted more Republican than the average county, with less than average African American, Asian American, other, and Latino population, but more than average white people and a very slightly more than average Native American population.
 
 ## Recommendations 
 
