@@ -81,11 +81,10 @@ For the third part of this analysis, we organized the cluster results into Pivot
 
 #### Democrat Pivot Table 
 
+
+
 #### Republican Pivot Table 
-![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Republican%20Pivot.png)
-
-
-
+![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Pivot%20Table%20Republicans.png)
 
 
 
