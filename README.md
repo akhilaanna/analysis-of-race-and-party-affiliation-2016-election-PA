@@ -81,12 +81,15 @@ For the third part of this analysis, we organized the cluster results into Pivot
 
 #### Democrat Pivot Table 
 ![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Democrat%20Pivot.png)
-- Anchor 4 contains the most counties by a significant margin (47/67), which represents counties that voted slighty less Democratic than the average county, with less than average African American, Asian American, other, and Latino people, but more than average white people and a very slightly higher than average Native American population.slightly less Democratic than the average, with less than average African American, Asian American, other, and Latino people, but more than average white people and a very slightly higher than average Native American population.
+- Anchor 4 contains the most counties by a significant margin (47/67), which represents counties that voted slighty less Democratic than the average county, with less than average African American, Asian American, other, and Latino people, but more than average white people and a very slightly higher than average Native American population.
+
+- Philadelphia County (cluster 5), which is the only extremely Democrat county, is above average for every racial minority while also being below average in white people.
 
 #### Republican Pivot Table 
 ![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Pivot%20Table%20Republicans.png)
-- Anchor 1 contains the most counties (44/47), which represents counties that voted more Republican than the average county, with less than average African American, Asian American, other, and Latino population, but more than average white people and a very slightly more than average Native American population.
+- Anchor 1 contains the most counties (44/67), which represents counties that voted more Republican than the average county, with less than average African American, Asian American, other, and Latino population, but more than average white people and a very slightly more than average Native American population.
 
+- These results make sense, as Pennsylvania is mostly comprised of small Republican counties that are predominately white. 
 ## Recommendations 
 
 ## Step by Step Description of Data Analysis 
