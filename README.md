@@ -79,11 +79,17 @@ For the second part of this analysis, we made five clusters for the Pennsylvania
 
 ### (3) How many counties are in each cluster and what does that mean about the overall state of Pennsylvania? 
 
-For the third part of this analysis, 
+For the third part of this analysis, we organized the cluster results into Pivot tables to show how many counties are associated with each anchor. This helps better understand which counties 
 
 #### Democrat Pivot Table 
 
 #### Republican Pivot Table 
+![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Republican%20Pivot.png)
+
+
+
+
+
 
 ## Recommendations 
 
