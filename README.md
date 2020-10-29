@@ -15,7 +15,8 @@ Outline the “why” for analysing this data set and what questions you hope to
 
 ## Data Answer 
 
-
 ## Business Answer 
 
 ## Recommendations 
+
+What do your findings mean and why are these important to you? Who might benefit from this data analysis? What additional information might you need to draw further conclusions?
