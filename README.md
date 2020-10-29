@@ -123,6 +123,8 @@ The other three of the five clusters, represented by Chester, Lancaster, and Phi
 If we found a correlation between race and political party affiliation from our regression models, we could also observe trends related to race. For example, after Philadelphia County, Northampton County is an area that has a diverse population, with less than average white people and more Asian Americans, Latinos, and people of other races. So not only would a Republican be incentivized to campaign in Northampton County because it has more Democrat votes than average, they would also be able to promote themselves to a diverse community and gain votes that are not just composed of white people. 
 
 In the future, we hope to redo this analysis with different but similar data to try to draw a conclusion for our regression model. We also hope to incorporate 2020 election data when the results are published publicly. 
+## Step by Step Analysis 
+Step by step analysis is attached in the files section.
 
 ## Sources (in order of appearance) 
 
