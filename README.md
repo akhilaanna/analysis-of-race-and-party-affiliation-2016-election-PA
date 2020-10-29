@@ -7,8 +7,8 @@ This analysis will investigate the racial make-up of counties in Pennsylvania an
 
 ## Business Question
 
-
 ## Data Question 
+What does 2016 election data say about racial make-up and party affiliation of counties in Pennsylvania?
 
 ## Data Answer 
 
