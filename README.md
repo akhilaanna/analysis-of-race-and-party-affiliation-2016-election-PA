@@ -51,7 +51,7 @@ For the second part of this analysis, we made five clusters for the Pennsylvania
 
 #### Democrat Cluster 
 
-![alt_text](dem-cluster.png)
+![alt_text](dem-cluster-new.png)
 
 *Cluster 1, represented by Northampton County:* Counties in this anchor voted significantly more Democratic than the average, with less than average white, African American, and Native American people, but more than average Asian Americans, Latinos, and people of other races.
 
@@ -65,7 +65,7 @@ For the second part of this analysis, we made five clusters for the Pennsylvania
 
 #### Republican Cluster 
 
-![alt_text](rep-cluster.png)
+![alt_text](rep-cluster-new.png)
 
 *Cluster 1, represented by Greene County:* Counties in this anchor voted more Republican than the average, with less than average African American, Asian American, other, and Latino population, but more than average white people and a very slightly more than average Native American population. 
 
