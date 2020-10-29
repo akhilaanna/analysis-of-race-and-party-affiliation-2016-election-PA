@@ -1,4 +1,4 @@
-# Analysis of Racial Makeup of Pennsylvania Voters in 2016 Presidential Election
+# Analysis of Racial Makeup and Political Party Affiliations of Pennsylvania Voters in 2016 Presidential Election
 
 ## Background Information 
 Over the past few US presidential elections, campaigns have been won based on how candidates reach voters in swing states. These swing states are capable of going to either major political party (Democrat or Republican), which makes them and their respective electoral votes extremely valuable. One of the most commonly mentioned swing states is Pennsylvania, as its 20 electoral votes has a significant influence on the outcome of an election. To convince voters from states like Pennsylvania, candidates often identify specific counties to target with advertisements and candidate rallies. This can also influence how candidates approach specific counties, as they want to highlight specific topics or policies that have significant impacts on different communities. Specifically, racial tensions has been a popular discussion point given the national climate, with both candidates offering claims to appease [racial minorities](https://www.nytimes.com/2020/10/28/upshot/election-polling-racial-gap.html).  
@@ -81,17 +81,52 @@ For the third part of this analysis, we organized the cluster results into Pivot
 
 #### Democrat Pivot Table 
 ![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Democrat%20Pivot.png)
+
+Anchor 1: 
+Anchor 2:
+Anchor 3:
+Anchor 4:
+Anchor 5: 
+
 - Anchor 4 contains the most counties by a significant margin (47/67), which represents counties that voted slighty less Democratic than the average county, with less than average African American, Asian American, other, and Latino people, but more than average white people and a very slightly higher than average Native American population.
 
 - Philadelphia County (cluster 5), which is the only extremely Democrat county, is above average for every racial minority while also being below average in white people.
 
 #### Republican Pivot Table 
 ![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Pivot%20Table%20Republicans.png)
+
+Anchor 1: 
+Anchor 2:
+Anchor 3:
+Anchor 4:
+Anchor 5: 
+
 - Anchor 1 contains the most counties (44/67), which represents counties that voted more Republican than the average county, with less than average African American, Asian American, other, and Latino population, but more than average white people and a very slightly more than average Native American population.
 
-- This makes sense as the majority of counties in Pennsylvania are small, predominantely white and Republican. 
+- This makes sense as the majority of counties in Pennsylvania are small, predominantly white and Republican. 
 
+## Business Answer/Recommendations 
 
-## Recommendations 
+### For which counties in Pennsylvania should candidates for each major political party focus their attention for campaigning to garner the most success?
+
+For both Democratic and Republican parties, Chester, Greene, Sullivan, and Philadelphia counties were clusters. According to our pivot charts, Chester’s cluster includes  INSERT STUFF HERE. This suggests that these counties most likely hold the most power in the state and can be used as major spots for campaigning. 
+
+If we look specifically at the Democratic cluster, we see that there are more than average Democrat votes for three of the five clusters: those represented by Northampton, Chester, and Philadelphia counties. This makes sense especially for Philadelphia County, because [metropolitan areas tend to vote Democratic]. (https://www.theatlantic.com/ideas/archive/2019/09/brief-history-how-democrats-conquered-city/597955/) This means that it would be most effective for *Republican* candidates to focus their attention primarily on gaining the votes of counties within those clusters, since they currently vote more Democratic than the average for the state. Specific major municipalities in these counties (besides Philadelphia) to target include [Bethlehem and Coatesville](https://dced.pa.gov/local-government/municipal-statistics/municipalities/). Conversely, a Democratic candidate could focus their campaign towards the two clusters that had less than average Democrat votes: Sullivan and Greene. 
+
+If we look specifically at the Republican cluster, we see that there are more than average Republican votes for two of the five clusters: those represented by Greene and Sullivan counties. This means that it would be most effective for *Democratic* candidates to focus their attention primarily on gaining the votes of counties within those clusters, since they currently vote more Republican than the average for the state. The [Pennsylvania government website](https://dced.pa.gov/local-government/municipal-statistics/municipalities/) actually does not list any major municipalities in Greene and Sullivan counties, but rather boroughs/small towns. This makes sense because [rural areas tend to vote Republican](https://www.governing.com/topics/politics/gov-rural-voters-governors-races.html). This is exactly what 2020’s Democratic candidate Joe Biden is doing -- he is focusing his efforts in more rural towns, as evidenced by the [podcast](https://www.happyscribe.com/public/pod-save-america/covid-covid-covid) mentioned in the “Business Question” section. Hopefully, this data analysis encourages future candidates to take the same strategic approach as Joe Biden’s campaign to completely solve the issue of campaign struggles. We will see if this solution works for Biden next week! 
+
+The other three of the five clusters, represented by Chester, Lancaster, and Philadelphia counties, show less than average Republican votes for the election. Chester and Philadelphia were both counties considered to be more Democratic than average when we examined the Democrat cluster, so this emphasizes the incentive for Republicans to campaign significantly in those counties. Municipalities in Lancaster County to target include the [city of Lancaster and Manheim Township](https://dced.pa.gov/local-government/municipal-statistics/municipalities/). 
+
+If we found a correlation between race and political party affiliation from our regression models, we could also observe trends related to race. For example, after Philadelphia County, Northampton County is an area that has a diverse population, with less than average white people and more Asian Americans, Latinos, and people of other races. So not only would a Republican be incentivized to campaign in Northampton County because it has more Democrat votes than average, they would also be able to promote themselves to a diverse community and gain votes that are not just composed of white people. 
+
+In the future, we hope to redo this analysis with different but similar data to try to draw a conclusion for our regression model. We also hope to incorporate 2020 election data when the results are published publicly.
 
 ## Step by Step Description of Data Analysis 
+
+## Sources (in order of appearance) 
+
+https://www.nytimes.com/2020/10/28/upshot/election-polling-racial-gap.html
+https://www.happyscribe.com/public/pod-save-america/covid-covid-covid
+https://www.theatlantic.com/ideas/archive/2019/09/brief-history-how-democrats-conquered-city/597955/
+https://dced.pa.gov/local-government/municipal-statistics/municipalities/
+https://www.governing.com/topics/politics/gov-rural-voters-governors-races.html
