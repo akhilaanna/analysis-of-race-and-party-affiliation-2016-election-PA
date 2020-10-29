@@ -20,9 +20,12 @@ To answer this business question, we analyzed a public data that listed the perc
 Our main data question is: What does 2016 election data say about racial make-up and party affiliation of counties in Pennsylvania?
 
 We can break this question down into three parts: 
--Is there a statistically significant correlation between race the political party affiliation? 
--What are five clusters of counties that represent the racial demographics of Pennsylvania? 
--How many counties are in each cluster and what does that mean about the overall state of Pennsylvania? 
+
+1) *Is there a statistically significant correlation between race the political party affiliation?* 
+
+2) *What are five clusters of counties that represent the racial demographics of Pennsylvania?* 
+
+3) *How many counties are in each cluster and what does that mean about the overall state of Pennsylvania?* 
 
 ## Data Answer 
 
