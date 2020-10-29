@@ -47,11 +47,35 @@ Even though we could not make conclusions about the relationship between race an
 
 ### (2) What are five clusters of counties that represent the racial demographics of Pennsylvania? 
 
-For the second part of this analysis, 
+For the second part of this analysis, we made five clusters for the Pennsylvanian counties to see the different groups of demographic features in the state.
 
 #### Democrat Cluster 
 
+![alt_text](dem-cluster.png)
+
+*Cluster 1, represented by Northampton County:* Counties in this anchor voted significantly more Democratic than the average, with less than average white, African American, and Native American people, but more than average Asian Americans, Latinos, and people of other races.
+
+*Cluster 2, represented by Sullivan County:* Counties in this anchor voted less Democratic than the average, with less than average African American, Asian American, Latino, and other race people. These counties have a moderately higher than average number of white people, and significantly higher than average number of Native Americans. and Native American people, but more than average Asian Americans, Latinos, and people of other races.
+
+*Cluster 3, represented by Chester County:* Counties in this anchor voted significantly more Democratic than the average, with less than average white and Native American people, but more than average African Americans and people of other races, and significantly higher than average Asian Americans and Latinos.
+
+*Cluster 4, represented by Greene County:* Counties in this anchor voted slightly less Democratic than the average, with less than average African American, Asian American, other, and Latino people, but more than average white people and a very slightly higher than average Native American population. 
+
+*Cluster 5, represented by Philadelphia County:* Philadelphia County is the only county in anchor 5, because its abundance of Democratic votes was so large that it got its own cluster. This county had significantly higher than average Democrat votes, with significantly higher than average non-white populations, including Native Americans, Asians, Latinos, and people of other races. The African American population is especially higher than average. The white population is very significantly less than average. 
+
 #### Republican Cluster 
+
+![alt_text](rep-cluster.png)
+
+*Cluster 1, represented by Greene County:* Counties in this anchor voted more Republican than the average, with less than average African American, Asian American, other, and Latino population, but more than average white people and a very slightly more than average Native American population. 
+
+*Cluster 2, represented by Chester County:* Counties in this anchor voted significantly less Republican than the average, with less than average white and Native American people, but more than average African American, Asian American, other, and Latino people. 
+
+*Cluster 3, represented by Lancaster County:* Counties in this anchor voted less Republican than the average, with less than average white, African American, and Native American people, but more than average Asian American, other, and Latino people (especially higher than average Latino population). 
+
+*Cluster 4, represented by Philadelphia County:* Philadelphia County is the only county in anchor 4, because its number of Republican votes was so much less than the average that it got its own cluster. This county had significantly less than average Republican votes, with significantly higher than average non-white populations, including Native Americans, Asians, Latinos, and people of other races. The African American population is especially higher than average. The white population is very significantly less than average. 	
+
+*Cluster 5, represented by Sullivan County:* Counties in this anchor voted more Republican than the average, with less than average African American, Asian American, other, and Latino population, but more than average white people and a very significantly more than average Native American population. 		
 
 ### (3) How many counties are in each cluster and what does that mean about the overall state of Pennsylvania? 
 
