@@ -88,7 +88,7 @@ For the third part of this analysis, we organized the cluster results into Pivot
 **Anchor 4:** Greene County
 **Anchor 5:** Philadelphia County
 
-- Anchor 4 contains the most counties by a significant margin (47/67), which represents counties that voted slighty less Democratic than the average county, with less than average African American, Asian American, other, and Latino people, but more than average white people and a very slightly higher than average Native American population.
+- Anchor 4 (Greene County) contains the most counties by a significant margin (47/67), which represents counties that voted slighty less Democratic than the average county, with less than average African American, Asian American, other, and Latino people, but more than average white people and a very slightly higher than average Native American population.
 
 - Philadelphia County (cluster 5), which is the only extremely Democrat county, is above average for every racial minority while also being below average in white people.
 
@@ -101,7 +101,7 @@ For the third part of this analysis, we organized the cluster results into Pivot
 **Anchor 4:** Philadelphia County
 **Anchor 5:** Sullivan County
 
-- Anchor 1 contains the most counties (44/67), which represents counties that voted more Republican than the average county, with less than average African American, Asian American, other, and Latino population, but more than average white people and a very slightly more than average Native American population.
+- Anchor 1 (Greene County) contains the most counties (44/67), which represents counties that voted more Republican than the average county, with less than average African American, Asian American, other, and Latino population, but more than average white people and a very slightly more than average Native American population.
 
 - This makes sense as the majority of counties in Pennsylvania are small, predominantly white and Republican. 
 
@@ -109,7 +109,7 @@ For the third part of this analysis, we organized the cluster results into Pivot
 
 ### For which counties in Pennsylvania should candidates for each major political party focus their attention for campaigning to garner the most success?
 
-For both Democratic and Republican parties, Chester, Greene, Sullivan, and Philadelphia counties were clusters. According to our pivot charts, Chester’s cluster includes  INSERT STUFF HERE. This suggests that these counties most likely hold the most power in the state and can be used as major spots for campaigning. 
+For both Democratic and Republican parties, Chester, Greene, Sullivan, and Philadelphia counties were clusters. This suggests that these counties most likely hold the most power in the state and can be used as major spots for campaigning. Greene County's cluster especially contains many counties, with 47/67 counties for the Democrat party and 44/67 couties for the Republican party, as illustrated in our pivot charts. Greene County's value for the state is, therefore, very high and very important for candidates to consider. 
 
 If we look specifically at the Democratic cluster, we see that there are more than average Democrat votes for three of the five clusters: those represented by Northampton, Chester, and Philadelphia counties. This makes sense especially for Philadelphia County, because [metropolitan areas tend to vote Democratic]. (https://www.theatlantic.com/ideas/archive/2019/09/brief-history-how-democrats-conquered-city/597955/) This means that it would be most effective for *Republican* candidates to focus their attention primarily on gaining the votes of counties within those clusters, since they currently vote more Democratic than the average for the state. Specific major municipalities in these counties (besides Philadelphia) to target include [Bethlehem and Coatesville](https://dced.pa.gov/local-government/municipal-statistics/municipalities/). Conversely, a Democratic candidate could focus their campaign towards the two clusters that had less than average Democrat votes: Sullivan and Greene. 
 
