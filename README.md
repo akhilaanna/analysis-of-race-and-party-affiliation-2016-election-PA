@@ -80,7 +80,7 @@ For the second part of this analysis, we made five clusters for the Pennsylvania
 For the third part of this analysis, we organized the cluster results into Pivot tables to show how many counties are associated with each anchor. Once these Pivot tables were constructed, we made Pivot graphs as a form of visual representation.
 
 #### Democrat Pivot Table 
-
+![alt_text](https://github.com/akhilaanna/correlation-and-clustering-between-race-and-voting/blob/main/Democrat%20Pivot.png)
 
 
 #### Republican Pivot Table 
